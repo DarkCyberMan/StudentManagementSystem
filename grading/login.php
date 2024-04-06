@@ -52,9 +52,9 @@
   
 
 <div class="container-fluid">
-<img src="chmsc.png">
+<img src="chmsc.webp" height="35%" width="35%" style="margin-left:25%">
   <div class="login-form" id="login_modal" role="dialog" >
-<center><h1>CHMSC Student Management System</h1></center>
+<center><h1>GPA Admin Panel</h1></center>
 
   <form class="form-horizontal" method="post">
     <div class="form-group">
