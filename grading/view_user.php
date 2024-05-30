@@ -50,7 +50,7 @@
         if($row['USER_TYPE'] == "STAFF"){ ?>
           <option value="ADMINISTRATOR">ADMINISTRATOR</option>
         <?php }else{?>
-          <option value="STAFF">STAFF</option>
+          <option value="STAFF">STUDENT</option>
         <?php } ?>
         </select>
       </div>
