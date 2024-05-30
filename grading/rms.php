@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- <link rel="icon" href="images/logo.jpg"> -->
-    <title>CHMSC Student Management System</title>
+    <title>GPA Student Management System</title>
     <link href="asset/css/bootstrap.min.css" rel="stylesheet">
     <link href="asset/css/sb-admin.css" rel="stylesheet">
     <link href="asset/css/plugins/morris.css" rel="stylesheet">
@@ -45,10 +45,10 @@
                   <!-- <img src="" style="height:48px;width:50px;align:center" alt=""> -->
                 </div>
                                 
-                <a class="navbar-brand" href=""><b>&nbsp;&nbsp;&nbsp; <img src="chmsc.png" alt="..." width="5%">CHMSC Student Management System</b></a>
+                <center><a class="navbar-brand" href=""><b>&nbsp;&nbsp;&nbsp; <img src="chmsc.png" alt="..." width="5%"> GPA Student Management System</b></a></center>
             </div>
             <!-- Top Menu Items -->
-            <ul class="nav navbar-right top-nav" style="background-color: orange">
+            <ul class="nav navbar-right top-nav" style="background-color: orange; border-color:yellow;">
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> 
                 <?php echo $_SESSION['fname']?>

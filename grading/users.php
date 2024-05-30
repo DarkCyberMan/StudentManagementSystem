@@ -70,7 +70,7 @@ success:function(data)
 </div>
 
 
-      <div class="col-md-4">
+      <div class="col-md-4" style="margin-top:4%;">
         
             <div class="container frm-new">
       <div class="row main">
@@ -117,7 +117,7 @@ success:function(data)
         <select class="form-control" name="type" id="sel1" required>
         <option></option>
           <option value="ADMINISTRATOR">ADMINISTRATOR</option>
-          <option value="STAFF">STAFF</option>n>
+          <option value="STAFF">STUDENT</option>n>
         </select>                </div>
               </div>
             </div>

@@ -33,7 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <h2>Carlos Hilado Memorial State College RECORD MANAGEMEN SYSTEM</h2>
+          <h2>GPA Student Management System</h2>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
 

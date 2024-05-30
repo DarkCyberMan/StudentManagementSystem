@@ -12,7 +12,7 @@
           <img src="images/logo.jpg" style="height:100px;width:100px" alt="">
           </div>
           <div class="col-md-8">
-          <H3 style="color:white">DMLMHS RECORD MANAGEMENT SYSTEM</H3>
+          <H3 style="color:white">GPA RECORD MANAGEMENT SYSTEM</H3>
         </div>
         
         </div>

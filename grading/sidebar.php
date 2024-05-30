@@ -9,7 +9,7 @@ $school_year=$s['school_year'];
 
 
 
- <ul class="nav navbar-nav side-nav">
+ <ul class="nav navbar-nav side-nav" style="margin-top:3.5%">
  <li>
 <a href="rms.php?page=home"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
 </li>

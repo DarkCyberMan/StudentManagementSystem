@@ -48,11 +48,11 @@
 }
     </style>
   </head>
-<body style="background-color: orange">
+<body style="background: url('https://www.desktopbackground.org/download/1920x1080/2012/10/22/471786_professional-background-images-for-websites-all-wallpapers-new_1920x1237_h.jpg') no-repeat; background-size:cover;">
   
 
 <div class="container-fluid">
-<img src="chmsc.webp" height="35%" width="35%" style="margin-left:25%">
+<img src="chmsc.png" height="10%" width="10%" style="margin-left:43%; margin-top:5%">
   <div class="login-form" id="login_modal" role="dialog" >
 <center><h1>GPA Login</h1></center>
 
