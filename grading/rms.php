@@ -175,7 +175,7 @@ if (!empty($page)) {
         if($row['USER_TYPE'] == "STAFF"){ ?>
           <option value="ADMINISTRATOR">ADMINISTRATOR</option>
         <?php }else{?>
-          <option value="STAFF">STUDENT</option>
+          <option value="STAFF">STAFF</option>
         <?php } ?>
         </select>
       </div>

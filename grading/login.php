@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="images/logo.jpg">
 
-    <title>CHMSC Student Management System</title>
+    <title>GPA Student Management System</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="asset/css/style.css" rel="stylesheet">

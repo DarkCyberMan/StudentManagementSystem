@@ -79,7 +79,7 @@ success:function(data)
           <form class="" method="post">
             
             <div class="form-group">
-              <label for="sub" class="cols-sm-2 control-label">Last Name</label>
+              <label for="sub" class="cols-sm-2 control-label">First Name</label>
               <div class="cols-sm-4">
                 <div class="input-group">
         <input type="text" class="form-control" style="text-transform: capitalize;" id="fname" name="fname" placeholder="Enter Firstname" required>
@@ -87,10 +87,10 @@ success:function(data)
               </div>
             </div>
             <div class="form-group">
-              <label for="sub" class="cols-sm-2 control-label">First Name</label>
+              <label for="sub" class="cols-sm-2 control-label">Last Name</label>
               <div class="cols-sm-4">
                 <div class="input-group">
-        <input type="text" class="form-control" style="text-transform: capitalize;" id="fname" name="lname" placeholder="Enter Firstname" required>
+        <input type="text" class="form-control" style="text-transform: capitalize;" id="fname" name="lname" placeholder="Enter Lastname" required>
                 </div>
               </div>
             </div>
@@ -98,7 +98,7 @@ success:function(data)
               <label for="sub" class="cols-sm-2 control-label">User</label>
               <div class="cols-sm-4">
                 <div class="input-group">
-        <input type="text" class="form-control" id="fname" name="user" placeholder="Enter Firstname" required>
+        <input type="text" class="form-control" id="fname" name="user" placeholder="Enter Username" required>
                 </div>
               </div>
             </div>
@@ -106,7 +106,7 @@ success:function(data)
               <label for="sub" class="cols-sm-2 control-label">Password</label>
               <div class="cols-sm-4">
                 <div class="input-group">
-        <input type="password" class="form-control"" id="fname" name="pwd" placeholder="Enter Firstname" required>
+        <input type="password" class="form-control"" id="fname" name="pwd" placeholder="Enter Password" required>
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@ success:function(data)
         <select class="form-control" name="type" id="sel1" required>
         <option></option>
           <option value="ADMINISTRATOR">ADMINISTRATOR</option>
-          <option value="STAFF">STUDENT</option>
+          <option value="STAFF">STAFF</option>
         </select>                </div>
               </div>
             </div>
